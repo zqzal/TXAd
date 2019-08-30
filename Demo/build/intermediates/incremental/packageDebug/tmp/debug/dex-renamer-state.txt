@@ -1,0 +1,4 @@
+#Thu Aug 29 18:45:35 CST 2019
+base.0=/Users/xuxi/Desktop/FirstCode/TXAd/Demo/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
